@@ -1,0 +1,44 @@
+body{
+  font-family: 'Times New Roman';
+}
+h1 {
+  font-size: 35px;
+  text-transform: uppercase;
+  text-align: center;
+  line-height: 84.69%px;
+  color: #005677;
+  background-color: #c4c4c4;
+  font-weight: 700;
+}
+h2 {
+  text-transform: uppercase;
+  color: #005677;
+  background-color: #c4c4c4;
+}
+.primera_lista {
+font-style: italic;
+font-weight: bold;
+font-size: 15px;
+}
+.fechas {
+  font-weight: bold;
+  font-size: 15px;
+}
+footer{
+  background-color: #005677;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffff;
+  font-size: 20px;
+  height: 37px;
+ width: 1440px;
+ left: 0px;
+ top: 987px;
+ border-radius: 0px;
+}
+header {
+  background-color: #E6E6E6;
+}
+.logo {
+  text-align: center;
+}
